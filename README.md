@@ -3,18 +3,19 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ryze-T&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 近期打算
+<br>
 1. fuzz
 2. 免杀平台
 3. 找工作 
 
 ## 联系
 
-欢迎交流：
-微信: Just_sudo_it
+欢迎交流：<br>
+微信: Just_sudo_it<br>
 邮箱：ryze1.0@qq.com
 
-
-欢迎关注我们团队公众号 NOP Team<br>
+<br>
+欢迎关注我们团队公众号 NOP Team<br><br>
 ![微信图片_20220227105424](https://user-images.githubusercontent.com/76553352/155866333-7475fd00-1b7a-429c-bd6e-91ad1565c185.jpg)
 
 
