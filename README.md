@@ -15,7 +15,8 @@
 邮箱：ryze1.0@qq.com
 
 <br>
-欢迎关注我们团队公众号 NOP Team<br><br>
+欢迎关注我们团队公众号 NOP Team<br>
+
 ![微信图片_20220227105424](https://user-images.githubusercontent.com/76553352/155866333-7475fd00-1b7a-429c-bd6e-91ad1565c185.jpg)
 
 
