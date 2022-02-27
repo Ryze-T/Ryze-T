@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ryze-T&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -8,8 +8,10 @@
 3. 找工作 
 
 ## 联系
-欢迎交流 VX
-![微信图片_20220227110317](https://user-images.githubusercontent.com/76553352/155866480-c24a27d2-8f82-4e4d-89d2-4ac8b449a71f.jpg)
+
+欢迎交流：
+微信: Just_sudo_it
+邮箱：ryze1.0@qq.com
 
 
 欢迎关注我们团队公众号 NOP Team<br>
