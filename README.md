@@ -1,13 +1,16 @@
-### Hi there 👋
+# Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ryze-T)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ryze-T&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### 近期打算
+## 近期打算
 1. fuzz
 2. 免杀平台
 3. 找工作 
 
-### 联系
+## 联系
+欢迎交流 VX
+![微信图片_20220227110317](https://user-images.githubusercontent.com/76553352/155866480-c24a27d2-8f82-4e4d-89d2-4ac8b449a71f.jpg)
+
 
 欢迎关注我们团队公众号 NOP Team<br>
 ![微信图片_20220227105424](https://user-images.githubusercontent.com/76553352/155866333-7475fd00-1b7a-429c-bd6e-91ad1565c185.jpg)
