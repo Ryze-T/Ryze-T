@@ -2,11 +2,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ryze-T&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 近期打算
-<br>
-1. fuzz
-2. 免杀平台
-3. 找工作 
 
 ## 联系
 
