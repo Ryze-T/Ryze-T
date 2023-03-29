@@ -6,7 +6,7 @@
 ## 联系
 
 欢迎交流：<br>
-微信: Just_sudo_it<br>
+微信: Ryze-T<br>
 邮箱：ryze1.0@qq.com
 
 <br>
