@@ -10,12 +10,12 @@
 
 
 ## Test
-2023-31841<br>
-2022-40942<br>
-2022-34115<br>
-2022-34114<br>
-2022-34113<br>
-2022-34112<br>
+CVE-2023-31841<br>
+CVE-2022-40942<br>
+CVE-2022-34115<br>
+CVE-2022-34114<br>
+CVE-2022-34113<br>
+CVE-2022-34112<br>
 <!--
 **Ryze-T/Ryze-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
